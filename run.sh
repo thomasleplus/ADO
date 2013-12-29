@@ -15,4 +15,22 @@ if [[ $rc != 0 ]] ; then
     exit $rc
 fi
 
-xsltproc "${BASEDIR}/ado2kml.xsl" "${INPUT}" | xmllint --format - > "${OUTPUT}"
+xsltproc -o "${OUTPUT}" "${BASEDIR}/ado2kml.xsl" "${INPUT}"
+
+rc=$?
+
+if [[ $rc != 0 ]] ; then
+    echo "error: xsltproc could not process ${INPUT} (${rc})" 1>&2
+    exit $rc
+fi
+
+xmllint --format --output "${OUTPUT}" "${OUTPUT}"
+
+rc=$?
+
+if [[ $rc != 0 ]] ; then
+    echo "error: xmllint could not process ${OUTPUT} (${rc})" 1>&2
+    exit $rc
+fi
+
+exit 0
