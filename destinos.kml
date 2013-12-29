@@ -1,0 +1,1379 @@
+<?xml version="1.0"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Destinos</name>
+    <description/>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av Casa de Justicia, Campeche, Campeche<br/></description>
+      <Point>
+        <coordinates>-90.53225121436097,19.823348229047646</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 45 x Av. Gobernadores S/N Col. Sta. Ana (SERV. INTERMEDIO), Campeche, 24050<br/>01 981 816 2808</description>
+      <Point>
+        <coordinates>-90.54601192474365,19.83417536959676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 32 x Av. Revoluci&#xF3;n S / N Col. Centro., Champot&#xF3;n, Campeche 24400<br/></description>
+      <Point>
+        <coordinates>-90.72325229644775,19.357469682169615</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Real de Guadalupe no.24 Entre Maria Adelina Flores y Fco.I. Madero Centro Hist&#xF3;rico (Ticket Bus), San Crist&#xF3;bal de las Casas, Chiapas<br/>01 967 678 8503</description>
+      <Point>
+        <coordinates>-92.63343572616577,16.73768774202476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. de los Insurgentes no.65 Barrio de Santa Lucia	(occ, ado gl, uno ), San Crist&#xF3;bal de las Casas, Chiapas<br/>01 967 678 0291</description>
+      <Point>
+        <coordinates>-92.63686895370482,16.73000241786444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Calle Central Ote. No.8	 Entre Av.Central Nte y 1a Ote norte Zona Centro, Teopisca, Chiapas<br/>01 992 676 0243</description>
+      <Point>
+        <coordinates>-92.47220277786255,16.53873572029986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Carretera Internacional Km.85 entre 4a Nte Pte. s/n Barrio Linda Vista, Ocosingo, Chiapas<br/>01 919 673 0431</description>
+      <Point>
+        <coordinates>-92.0944619178772,16.904982201211187</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Blvd. Belisario Dom&#xED;nguez sur No.43 barrio Crist&#xF3;bal Colon, Comit&#xE1;n de Dom&#xED;nguez, Chiapas<br/>01 963 632 0980</description>
+      <Point>
+        <coordinates>-92.13589668273926,16.248277061656108</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Carretera Panamericana Km.1401, Ciudad Cuauht&#xE9;moc, Chiapas<br/>01 963 631 4242</description>
+      <Point>
+        <coordinates>-92.00483322143553,15.663329430209396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>1av norte entre 4a norte pte s/n Barrio Guadalupe, Frontera Comalapa, Chiapas<br/>01 963 631 0444</description>
+      <Point>
+        <coordinates>-92.15658187866211,15.58128947505255</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Y griega carretera motozintla Comalapa s/n	Barrio Linda Vista, Motozintla, Chiapas<br/>01 962 641 0575</description>
+      <Point>
+        <coordinates>-92.24520206451415,15.364749717628959</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>17 oriente esquina 3a norte s/n col centro, Tapachula, Chiapas<br/>01 962 626 2881</description>
+      <Point>
+        <coordinates>-92.25706815719604,14.91337380771651</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Calle Manuel negrete entre avenida juarez y avenida central s/n col.centro, Huixtla, Chiapas<br/>01 964 642 0546</description>
+      <Point>
+        <coordinates>-92.46577620506287,15.138394927604267</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Carretera costera Km.219 centro., Acacoyahua, Chiapas Escuintla<br/>01 918 644 0482</description>
+      <Point>
+        <coordinates>-92.65525817871092,15.326571801420842</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Carretera costera Km.189, Mapastepec, Chiapas<br/>01 918 643 0184</description>
+      <Point>
+        <coordinates>-92.87862181663513,15.453307949895063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Calle central y 5a avenida norte s/n barri&#xF3; el cerrito, Pijijiapan, Chiapas<br/>01 918 645 0207</description>
+      <Point>
+        <coordinates>-93.20532560348511,15.684423054350361</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Av. Hidalgo y calle 12 de octubre s/n col. Las animas, Tonala, Chiapas<br/>01 966 663 0540</description>
+      <Point>
+        <coordinates>-93.75134825706482,16.089804993658863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>5ta avenida ote y carretera panamericana, Arriaga, Chiapas<br/>01 966 662 0177</description>
+      <Point>
+        <coordinates>-93.89782905578613,16.234659583312375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>Carretera panamericana Km.1002 num.514 Barri&#xF3; seguro social, Cintalapa, Chiapas<br/>01 968 684 2088</description>
+      <Point>
+        <coordinates>-93.72704744338989,16.693996454712305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses OCC</name>
+      <description>5a sur oriente s/n barrio los mangos, Ocozocoautla, Chiapas<br/>01 968 688 0167</description>
+      <Point>
+        <coordinates>-93.37396144866943,16.758748872580966</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Taxque&#xF1;a # 1320 Col. Campestre Churubusco, Distrito Federal, Distrito Federal, 04200<br/>01 55 5689 3955</description>
+      <Point>
+        <coordinates>-99.14209485054016,19.34289288466279</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>TAPO (Calz. I Zaragoza Nte.), Mexico, DF<br/></description>
+      <Point>
+        <coordinates>-99.11249760454089,19.4297308334595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Terminal de Autobuses del Norte, Mexico, DF<br/></description>
+      <Point>
+        <coordinates>-99.13911601662468,19.47928835610544</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Aeropuerto Internacional de la Ciudad de M&#xE9;xico, Ciudad de M&#xE9;xico, Distrito Federal<br/></description>
+      <Point>
+        <coordinates>-99.08428940202248,19.435428560673028</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Ignacio Zaragoza N&#xFA;m. 3875 Col. Santa Martha, Del. Iztapalapa, M&#xE9;xico DF 09510<br/>01 55 5738 0978</description>
+      <Point>
+        <coordinates>-98.99497032165527,19.359615600694667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calzada Ignacio Zaragoza Esq. Amador Salazar #2929 Col Santa Martha Acatitla, DF, M&#xE9;xico 09510<br/>01 55 5734 8145</description>
+      <Point>
+        <coordinates>-99.007887840271,19.365850750878916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 15 No.2 Col. Moctezuma 1ra secci&#xF3;n, DF, M&#xE9;xico<br/>01 55 2643 6036</description>
+      <Point>
+        <coordinates>-99.10318136215209,19.42410143151245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera M&#xE9;xico Cuautla S/N Km. 37 Fraccionamiento Hacienda de Santa B&#xE1;rbara. Plaza El Cortijo, Ixtapaluca, Estado de M&#xE9;xico<br/>01 55 2596 9107</description>
+      <Point>
+        <coordinates>-98.88321876525877,19.296015612911464</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Mixtecas N&#xFA;m. 241 Col. Benito Juarez, Municipio Nezahualcoyotl, Estado de M&#xE9;xico 57500<br/>01 55 5734 3642</description>
+      <Point>
+        <coordinates>-98.9979100227356,19.41550074981683</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Cuauht&#xE9;moc no. 1490 Frac. Magallanes, Acapulco, Guerrero 39670<br/>01 744 485 5282</description>
+      <Point>
+        <coordinates>-99.8800778388977,16.864594484498923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Boulevard de las Naciones No.34 Col. Granjas del Marqu&#xE9;s, Acapulco, Gerrero<br/>01 744 488 5018</description>
+      <Point>
+        <coordinates>-99.8118531703949,16.796406524936224</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. de los Plateros no. 386 Col. Centro, Taxco, Guerrero 40200<br/>01 762 622 0648</description>
+      <Point>
+        <coordinates>-99.60299491882324,18.556397410347575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Bandera Nacional no. 83 Col. Centro, Iguala, Guerrero 40000<br/>01 733 332 1029</description>
+      <Point>
+        <coordinates>-99.53085422515869,18.341755550292916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 21 de Marzo s/n. Col. Benito Ju&#xE1;rez, Chilpancingo, Guerrero 39010<br/>01 747 472 2130</description>
+      <Point>
+        <coordinates>-99.50970768928528,17.562251351651792</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Plaza Ixpamar Local 1 y 2 Col. Zona Hotelera Ixtapa, Ixtapa, Guerrero 40880<br/>01 755 553 1315</description>
+      <Point>
+        <coordinates>-101.60109043121336,17.66023676940862</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calzada Rey Irepan Oriente #404 Frac. Plaza Las Am&#xE9;ricas, Ciudad Altamirano, Guerrero 40660<br/>01 767 672 0707</description>
+      <Point>
+        <coordinates>-100.66654443740845,18.35403674348478</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Juan N. &#xC1;lvarez Sur #93, Atoyac de &#xC1;lvarez, Guerrero 40930<br/>01 742 423 2096</description>
+      <Point>
+        <coordinates>-100.43310642242432,17.20587081730527</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Boulevard Vicente Guerrero, lotes 10,11 y 12 Ciudad Renacimiento, Acapulco de Ju&#xE1;rez, Guerrero 39715<br/>01 767 672 0707</description>
+      <Point>
+        <coordinates>-99.82572555541992,16.891862787512313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Nacional Acapulco Zihuatanejo no. 27, Petatl&#xE1;n, Guerrero 40830<br/>01 758 538 2506</description>
+      <Point>
+        <coordinates>-101.26938700675964,17.53889758354791</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Boulevard Javier Rojo Gomez S/N Col. Cuesco, Pachuca, Hidalgo 42060<br/>01 771 107 0020</description>
+      <Point>
+        <coordinates>-98.75260591506958,20.1063948755021</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera M&#xE9;xico &#x2013;Tuxpan Km. 143 Col. Los Pinos, Tulancingo, Hidalgo 43612<br/>01 775 755 1180</description>
+      <Point>
+        <coordinates>-98.36353540420532,20.079935751404513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera M&#xE9;xico Tampico Km. 216 Col, Los Cantores, Huejutla, Hidalgo 43000<br/>01 789 896 2104</description>
+      <Point>
+        <coordinates>-98.4218144416809,21.13942781985698</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Corregidora no. 318 (Esq. Rector Hidalgo), L&#xE1;zaro C&#xE1;rdenas, Michoac&#xE1;n 60950<br/>01 753 532 0275</description>
+      <Point>
+        <coordinates>-102.19261407852173,17.96222069947811</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Morelos sur # 179 Col. Las Palmas, Cuernavaca, Morelos 62050<br/>01 777 312 8296</description>
+      <Point>
+        <coordinates>-99.23694849014282,18.916426051891623</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 2 de Mayo No. 97 Esquina 2&#xBA; Viernes Col. Centro, Cuautla, Morelos 62740<br/></description>
+      <Point>
+        <coordinates>-98.94364356994629,18.842268278808234</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>5 de Mayo 900 (e/ Calz Heroes de Chapultepec y Pirus), Oaxaca, 68000<br/></description>
+      <Point>
+        <coordinates>-96.71688437461853,17.070589917972526</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses AU</name>
+      <description>Prolongaci&#xF3;n de calz. Madero no. 1104, Oaxaca<br/>01 951 512 6355</description>
+      <Point>
+        <coordinates>-96.74373865127562,17.08072273332661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Perif&#xE9;rico no. 1014 col centro, Oaxaca<br/>01 951 514 4486</description>
+      <Point>
+        <coordinates>-96.73101425170898,17.056969234466884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Perif&#xE9;rico no. 606 col centro (Central de Abastos), Oaxaca<br/>01 951 514 9003</description>
+      <Point>
+        <coordinates>-96.73449039459229,17.05934882310885</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Hidalgo s/n Barrio Grande, Cuicatlan, Oaxaca<br/>01 236 374 0014</description>
+      <Point>
+        <coordinates>-96.96295022964478,17.798176634847238</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carranza Esq. Nuyoo col. Centro, Huajuapan, Oaxaca<br/>01 953 532 9309</description>
+      <Point>
+        <coordinates>-97.77769804000854,17.802671329838383</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Bah&#xED;a Riscalillo no. 102 Esq. Boulevard Chahue lote 10-1 mz 01 sector 1, Huatulco, Oaxaca<br/>01 958 587 0261 </description>
+      <Point>
+        <coordinates>-96.14039182662964,15.770056025859668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Juxtlahuaca-Pinotepa s/n, Juxtlahuaca, Oaxaca 69700<br/>01 953 554 0181</description>
+      <Point>
+        <coordinates>-98.00216674804688,17.476432197195518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Porfirio D&#xED;az no. 128 Barrio el Chocano, Nochixtlan, Oaxaca<br/>01 951 522 0387</description>
+      <Point>
+        <coordinates>-97.22696542739868,17.45901377839507</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Pinotepa-Acapulco Km. 1 terminal tur&#xED;stica del gobierno del estado, Pinotepa Nacional, Oaxaca<br/>01 954 543 6110</description>
+      <Point>
+        <coordinates>-98.052077293396,16.33751923130799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. L&#xE1;zaro C&#xE1;rdenas no. 84 centro, Pochutla, Oaxaca<br/>01 958 584 0274</description>
+      <Point>
+        <coordinates>-96.4671277999878,15.743044017307447</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Costera, Puerto Escondido, Oaxaca/M&#xE9;xico 71980<br/></description>
+      <Point>
+        <coordinates>-97.06820011138916,15.861948358896791</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Hip&#xF3;dromo 24b Col Benito Ju&#xE1;rez, Tlaxiaco, Oaxaca<br/>01 953 552 0182</description>
+      <Point>
+        <coordinates>-97.67774820327759,17.26928913650242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Matamoros No. 383 Entre calles Jes&#xFA;s Carranza y libertad, Tuxtepec, Oaxaca<br/>01 287 875 0237</description>
+      <Point>
+        <coordinates>-96.12221717834471,18.08517947961495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Morelos No. 17 Entre calles Coahuila y 16 de Septiembre, Loma Bonita, Oaxaca<br/>01 281 872 0193</description>
+      <Point>
+        <coordinates>-95.88152647018431,18.10826801866053</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Independencia No. 62, Secc. 2da. San Lucas Ojitlan, San Lucas Ojitlan, Oaxaca<br/></description>
+      <Point>
+        <coordinates>-96.38442993164062,18.066555502281872</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Colegio Militar S/N, Secc. 4a., Jalapa de D&#xED;az, Oaxaca<br/>01 287 877 2160</description>
+      <Point>
+        <coordinates>-96.53587818145752,18.070594604895323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Independencia No. 48, Valle N., Valle Nacional, Oaxaca<br/>01 283 877 4650</description>
+      <Point>
+        <coordinates>-96.3011312484741,17.77566059591084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Internacional No. 4006 San Isidro Pueblo Nuevo, Viguera, Oaxaca 68010<br/>01 951 522 2853</description>
+      <Point>
+        <coordinates>-96.75103425979614,17.12879481742639</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Libertad NO. 45, San Francisco Telixtlahuaca, Telixtlahuaca, Oaxaca 68213<br/></description>
+      <Point>
+        <coordinates>-96.9047999382019,17.293302274969076</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Internacianal a Tehuacan Km 172, desviaci&#xF3;n Nacaltepec s/n, Santiago Nacaltepec, Nacaltepec, Oaxaca<br/></description>
+      <Point>
+        <coordinates>-96.93263053894043,17.50598443002312</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Hidalgo y calle Guerrero L-2-2 Barrio Grande, s/n, Cuicatlan, Oaxaca<br/>01 236 374 0014</description>
+      <Point>
+        <coordinates>-96.95920586585999,17.790892945594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle s/n, Colonia Benito Ju&#xE1;rez Garc&#xED;a, Santiago Quiotepec, Quiotepec, Oaxaca<br/></description>
+      <Point>
+        <coordinates>-96.98367834091187,17.900014931192263</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Benito Ju&#xE1;rez No. 2, Santa Mar&#xED;a Tecomavaca, Teotitlan de Flores Magon, Tecomavaca, Oaxaca<br/>01 236 372 2122</description>
+      <Point>
+        <coordinates>-97.02412605285645,17.954708987674202</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Dom. Conocido, Villa Tejupan de la uni&#xF3;n, Oaxaca<br/>01 953 520 6003</description>
+      <Point>
+        <coordinates>-97.47287034988403,17.662015599185064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Crist&#xF3;bal Col&#xF3;n N&#xFA;mero 37, Col. Centro, Tamazulapan, Oaxaca<br/>01 953 533 0699</description>
+      <Point>
+        <coordinates>-97.5730562210083,17.6738740149063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>1A Norte #207, Col. Centro, Puerto Escondido, Oaxaca CP 71980<br/>01 954 582 1073</description>
+      <Point>
+        <coordinates>-97.07721233367919,15.87369253482752</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Blvd. Norte H. 5 de Mayo No. 4222 Col. Las Cuartillas, Puebla, 72050<br/>01 222 225 9000</description>
+      <Point>
+        <coordinates>-98.20457696914673,19.073708093721</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Central Camionera (Independencia Poniente), Tehuac&#xE1;n, PUE<br/></description>
+      <Point>
+        <coordinates>-97.39608278679228,18.46285450933581</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses AU</name>
+      <description>5 oriente Col. Centro, Tehuac&#xE1;n, Puebla 75700<br/>01 238 383 0972</description>
+      <Point>
+        <coordinates>-97.39315509796143,18.458727412585322</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses Interoce&#xE1;nicos</name>
+      <description>Independencia Oriente Col. Centro 319, Tehuac&#xE1;n, Puebla 75700<br/>01 238 383 8192</description>
+      <Point>
+        <coordinates>-97.38862752914427,18.462818461008915</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO/AU</name>
+      <description>9 Oriente Col. Sn. Jose, Tecamachalco, Puebla<br/>01 249 422 0676</description>
+      <Point>
+        <coordinates>-97.72977232933043,18.880615143497998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO/AU</name>
+      <description>Carretera Nacional Km. 81 local 6 s/n, Tlacotepec, Puebla 75680<br/></description>
+      <Point>
+        <coordinates>-97.65328645706177,18.682309165666737</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>5 Poniente Col. Centro, Ciudad Serd&#xE1;n, Puebla 75520<br/>01 245 452 0337</description>
+      <Point>
+        <coordinates>-97.45057582855225,18.987000197506436</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses AU</name>
+      <description>Av. Independencia Esq. 3 Norte Col. Centro s/n, Esperanza, Puebla 75560<br/>01 245 455 0119</description>
+      <Point>
+        <coordinates>-97.37622499465942,18.858940140232924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Hidalgo, entre Galeana y Fco. I. Madero S/n, Teotitl&#xE1;n, Puebla 68540<br/>01 236 372 0141</description>
+      <Point>
+        <coordinates>-97.07215905189514,18.131486064875837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses AU</name>
+      <description>Av. Nacional secci&#xF3;n cuarta, Domicilio conocido s/n, Zoquitl&#xE1;n, Puebla<br/>01 236 378 2008</description>
+      <Point>
+        <coordinates>-97.01927661895752,18.336276593834416</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses AU</name>
+      <description>Ing. Jorge l. Tamayo s/n, Huautla, Puebla 68500<br/>01 236 378 0680</description>
+      <Point>
+        <coordinates>-96.84450387954712,18.12985468219768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Zaragoza No 502 Colonia Centro, Teziutl&#xE1;n, Puebla<br/>01 231 312 1034</description>
+      <Point>
+        <coordinates>-97.35976696014404,19.817804676232967</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Terminal T&#xE9;teles Dom. Con Carretera Federal Teziutlan Puebla, T&#xE9;teles, Puebla<br/></description>
+      <Point>
+        <coordinates>-97.45867609977722,19.8602317720183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Constituci&#xF3;n No 3 Colonia Centro, Hueytamalco, Puebla<br/></description>
+      <Point>
+        <coordinates>-97.28674650192261,19.93914179851289</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Dom. Con Colonia Centro Tenampulco, Tenampulco, Puebla<br/></description>
+      <Point>
+        <coordinates>-97.40542888641357,20.17144553900585</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Dom.Con. Colonia Centro San Jose Acateno, San Jose Acateno, Puebla<br/></description>
+      <Point>
+        <coordinates>-97.2125780582428,20.131499702995157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Ayotoxco Pue., Ayotoxco, Puebla<br/></description>
+      <Point>
+        <coordinates>-97.41167306900024,20.09780068447029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>El Moh&#xF3;n, Moh&#xF3;n, Puebla<br/></description>
+      <Point>
+        <coordinates>-97.28239059448241,19.90609759082561</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Atempan, Atempan, Puebla<br/></description>
+      <Point>
+        <coordinates>-97.45763540267944,19.84066464121862</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Morelos # 504 Col. Centro, Zaragoza, Puebla<br/></description>
+      <Point>
+        <coordinates>-97.55458116531372,19.770742166884872</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Eduardo Guerra # 12 Col. Centro, Tlatlauquitepec, Puebla<br/>01 233 318 0481 </description>
+      <Point>
+        <coordinates>-97.4973213672638,19.845861922573313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. 5 De Mayo # 44 Col. Centro, Zacapoaxtla, Puebla<br/>01 233 314 2152</description>
+      <Point>
+        <coordinates>-97.58785128593445,19.871210105667235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Vicente Guerrero # 20, Cuetzalan, Puebla<br/>01 233 331 0411</description>
+      <Point>
+        <coordinates>-97.51994848251343,20.01762935449337</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Manuel &#xC1;vila Camacho # 603, Libres, Puebla<br/>01 276 473 1665</description>
+      <Point>
+        <coordinates>-97.68470048904419,19.465965067979074</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Tulum (esq. Uxmal), Canc&#xFA;n, QR 77500<br/>01 800 702 8000</description>
+      <Point>
+        <coordinates>-86.82658731937408,21.164337766483698</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Nichupte lt 1 mza 16 reg. 512 (tienda Soriana local 32) (Nichupte), Cancun, Quintana Roo<br/>01 998 847 8540</description>
+      <Point>
+        <coordinates>-86.8681614358535,21.13893764791321</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Centro de chiquila casa #3 frente a la Glorieta Delfines, Chiquil&#xE1;, Quintana Roo 77320<br/>01 984 267 1055</description>
+      <Point>
+        <coordinates>-87.33607292175293,21.430998975270573</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Mercado Municipal Local 10, Kantunilkin, Quintana Roo<br/>01 984 875 0206</description>
+      <Point>
+        <coordinates>-87.48651266098021,21.100496081267345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Centro Comercial Cancun Mall Local 42, Canc&#xFA;n, Quintana Roo<br/>01 998 889 6442</description>
+      <Point>
+        <coordinates>-86.76177978515624,21.11184638869226</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Muelle de Ultramar, Zona Centro (ticket bus), Isla Mujeres, Quintana Roo<br/>01 998 877 0845</description>
+      <Point>
+        <coordinates>-86.74607276916504,21.255081729946895</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. L&#xF3;pez Portillo mza 101 lt 14 local 1 Reg. 94, Canc&#xFA;n, Quintana Roo<br/>01 998 840 3732</description>
+      <Point>
+        <coordinates>-86.85288906097412,21.161221125653512</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Salvador Novo no. 179 col. constituyentes de 1976., Chetumal, Quintana Roo<br/></description>
+      <Point>
+        <coordinates>-88.29518795013428,18.49560438395103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Federal entre calle 28 y 30 col. Magisterial., Bacalar, Quintana Roo<br/></description>
+      <Point>
+        <coordinates>-88.39091062545776,18.677389947982313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 66 no. 752 entre 65 y 67 col centro, Felipe Carrillo Puerto, Quintana Roo 77200<br/></description>
+      <Point>
+        <coordinates>-88.04657936096191,19.577865272546664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Local No. 5 Int. Centro Tur&#xED;stico de Chichen Itza, Canc&#xFA;n, Quintana Roo<br/></description>
+      <Point>
+        <coordinates>-86.87069892883301,21.14911412946223</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 39 No. 221 x 44 y 46 Centro., Canc&#xFA;n, Quintana Roo<br/>01 985 856 3448</description>
+      <Point>
+        <coordinates>-86.83701038360596,21.170585858343753</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Central Camionera (Francisco Javier Mina 297 y Lino Merino), Villahermosa, Tabasco 86000<br/>3128431</description>
+      <Point>
+        <coordinates>-92.92217016220093,17.9967541337214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Tenosique-Emiliano Zapata km. 3.5 Col Estaci&#xF3;n Nueva Calle 20, Tenosique, Tabasco<br/></description>
+      <Point>
+        <coordinates>-91.43184900283813,17.46067177249479</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Benito Ju&#xE1;rez Esq. Jorge de la Vega Dominguez Col Centro, Palenque, Tabasco 29960<br/></description>
+      <Point>
+        <coordinates>-91.98808550834656,17.51175515013158</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Ignacio Zaragoza # 145 Col centro, Frontera, Tabasco 86751<br/></description>
+      <Point>
+        <coordinates>-92.6432204246521,18.527875395584935</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Perif&#xE9;rico Col Centro s/n, Jonuta, Tabasco 86781<br/></description>
+      <Point>
+        <coordinates>-92.13688373565674,18.08997284510237</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Central camionera Av. Chiapas s/n Col. Ganadera, Emiliano Zapata, Tabasco 86992<br/></description>
+      <Point>
+        <coordinates>-91.76806926727294,17.73877474919868</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Arroyo San Marcos #5 Entre Abasolo y Aldama Col. El palenque, Balancan, Tabasco 86930<br/></description>
+      <Point>
+        <coordinates>-91.53722763061523,17.805858408590538</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Principal s/n Palizada Campeche, Palizada, tabasco<br/></description>
+      <Point>
+        <coordinates>-92.20441102981566,18.21728551437695</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Abasolo 69 Col Centro, Macuspana, Tabasco 86706<br/></description>
+      <Point>
+        <coordinates>-92.59665727615356,17.761274998570524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Rosalio Bustamante s/n int. 3, Col. Arcim, Tampico, Tamaulipas 89130<br/>01 833 213 5512</description>
+      <Point>
+        <coordinates>-97.86009550094604,22.24614476650229</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Tampico-Mante no. 1503, col. Del Bosque, Tampico, Tamaulipas<br/>01 833 213 5512</description>
+      <Point>
+        <coordinates>-97.8797721862793,22.3123042800476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Ave. Emilio Portes Gil no. 903, col. Tamaulipas,, Tampico, Tamaulipas<br/>01 833 213 5512</description>
+      <Point>
+        <coordinates>-97.9414415359497,22.42072849122066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>1o. De mayo 607, zona centro, Ciudad Madero, Tamaulipas<br/>01 833 213 5512</description>
+      <Point>
+        <coordinates>-97.8328013420105,22.243999817017833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Aquiles serdan no. 115 c. Sur, zona centro, Tampico, Tamaulipas<br/>01 833 213 5512</description>
+      <Point>
+        <coordinates>-97.84570813179016,22.227653429000426</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Prolongaci&#xF3;n Francita 1204 col. Petrolera (ticket bus), Tampico, Tamaulipas<br/>01 833 217 8945</description>
+      <Point>
+        <coordinates>-97.85840034484863,22.25575691444498</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Tampico alto s/n Esq. Con Blvd. Rafael murillo, Tampico alto, Veracruz<br/>01 833 278 4000</description>
+      <Point>
+        <coordinates>-97.80327558517455,22.109716367278416</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Central de Autobuses Matamoros. Calle Canales y Luis Aguilar Colonia Modelo., Matamoros, Tamaulipas<br/>01 868 812 0181</description>
+      <Point>
+        <coordinates>-97.49668836593628,25.87312527574395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Central de Autobuses Reynosa. Calle Guadalupe L&#xF3;pez Velarde Num. 100 Col. Del Prado, Reynosa, Tamaulipas<br/>01 899 922 8858</description>
+      <Point>
+        <coordinates>-98.27768325805664,26.07804315235875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sucursal Apizaco</name>
+      <description>Avenida Xicotencatl 2109 Colonia F&#xE1;tima , Apizaco, Tlax.<br/>(241) 4 17 00 85</description>
+      <Point>
+        <coordinates>-98.14626,19.407112</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Salvador Diaz Mir&#xF3;n (Marcelino Tuero Molina), Veracruz, VER 91910<br/>01 800 702 8000</description>
+      <Point>
+        <coordinates>-96.13406181335449,19.17865226193125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Urano, Boca del R&#xED;o, Veracruz-Llave<br/></description>
+      <Point>
+        <coordinates>-96.11505763432166,19.153365297616606</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Avenida Rafael Cuervo # 83, Colonia Playa linda, Veracruz<br/>01 229 165 0144</description>
+      <Point>
+        <coordinates>-96.1898946762085,19.214520495065546</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Nicol&#xE1;s Bravo No. 15, Veracruz, 91700<br/>01 789 895 0114</description>
+      <Point>
+        <coordinates>-96.13828897476196,19.192392542744745</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Puebla y &#xC1;lamo s/n Col.Palma Sola, Poza Rica, Veracruz 93320<br/>01 782 824 8881</description>
+      <Point>
+        <coordinates>-97.45945930480957,20.53338940481777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Benito Ju&#xE1;rez no. 408 Colonia Centro, Papantla, Veracruz 93400<br/>01 784 842 0218</description>
+      <Point>
+        <coordinates>-97.32097148895264,20.44617488849856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Arteaga no. 12 Colonia Centro, &#xC1;lamo, Veracruz 93730<br/>01 765 844 8999</description>
+      <Point>
+        <coordinates>-97.67628908157349,20.916568627830376</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Abasolo entre Juan Ahumada y Ni&#xF1;os H&#xE9;roes s/n Colonia Centro, Tecolutla, Veracruz 93570<br/>01 766 846 0182</description>
+      <Point>
+        <coordinates>-97.00977087020873,20.479064546124025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Hidalgo no. 5 Colonia Centro, Gutierrez Zamora, Veracruz 93558<br/>01 766 845 0991</description>
+      <Point>
+        <coordinates>-96.14351391792297,19.200934041891244</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Constituci&#xF3;n no.9 Colonia Centro, Potrero del llano, Veracruz 92750<br/>01 765 858 0257</description>
+      <Point>
+        <coordinates>-97.73117780685425,21.08219763917691</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carr. Federal Poza Rica-Nautla km. 77 la vigueta, Costa Esmeralda, Veracruz 93585<br/></description>
+      <Point>
+        <coordinates>-96.91748142242432,20.373756666004812</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Hidalgo s/n Colonia Primero de Mayo, Cerro Azul, Veracruz<br/>01 785 852 0944</description>
+      <Point>
+        <coordinates>-97.7404260635376,21.18995376613248</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Poniente no. 9 Colonia Petromex, Poza Rica, Veracruz 93290<br/>01 782 821 1400</description>
+      <Point>
+        <coordinates>-97.4241828918457,20.51128394400754</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>6 norte, y Av. Central Oriente Colonia Obrera, Poza Rica, Veracruz<br/>01 782 822 9945</description>
+      <Point>
+        <coordinates>-97.45529651641846,20.52269879877126</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle General Amalla - Villa Isla (Ra&#xFA;l Sandoval), Cordoba, Veracruz<br/>01 283 874 0688</description>
+      <Point>
+        <coordinates>-96.15246176719666,19.173251085490712</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Melchor Ocampo No.305 colonia Benito Ju&#xE1;rez, C&#xF3;rdoba, Veracruz<br/>01 283 877 1160</description>
+      <Point>
+        <coordinates>-96.93885326385498,18.88392452260161</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle Miguel Lerdo No. 720 (Independencia), C&#xF3;rdoba, Veracruz<br/>01 283 871 1093</description>
+      <Point>
+        <coordinates>-96.94765090942381,18.875793078399123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Benito Juarez No.7, Col. Vazquez Vela, Villa. Azueta,, C&#xF3;rdoba, Veracruz<br/>01 283 873 0206</description>
+      <Point>
+        <coordinates>-96.92956209182738,18.899567052144203</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Hermenegildo Galeana S/N, C&#xF3;rdoba, Veracruz<br/>01 283 872 2239</description>
+      <Point>
+        <coordinates>-96.9284462928772,18.894461312517247</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera federal cosamaloapan &#x2013; tuxtepec Km. 115, Santa Cruz, Veracruz 95429<br/>01 287 878 0105</description>
+      <Point>
+        <coordinates>-95.65732598304749,18.61175963454129</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>16 de septiembre Esq. Aquiles Serdan s/n, Tierra Blanca, Veracruz CP 95100<br/>01 274 743 0130</description>
+      <Point>
+        <coordinates>-96.36045098304749,18.445720894582944</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses AU</name>
+      <description>Benito Ju&#xE1;rez Esq. Allende s/n, Tierra Blanca, Veracruz 95100<br/>01 274 743 0019</description>
+      <Point>
+        <coordinates>-96.35823011398315,18.445924447052978</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Ruiz Cortinez num. 111, Tres Valles, Veracruz 95300<br/>01 288 885 0006</description>
+      <Point>
+        <coordinates>-96.13343954086302,18.240438114577714</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Aquiles Serdan s/n Esq. Miguel Alem&#xE1;n, Cosamaloapan, Veracruz<br/>01 288 882 3522</description>
+      <Point>
+        <coordinates>-95.79689741134644,18.364565694723456</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Miguel Alem&#xE1;n Esq. Argentina s/n, San Crist&#xF3;bal, Veracruz<br/>01 288 882 7097</description>
+      <Point>
+        <coordinates>-95.73074340820312,18.37871868864979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Guillermo Chazaro Lagos Esq. Negrete, Tlacotalpan, Veracruz 95461<br/>01 288 884 2125</description>
+      <Point>
+        <coordinates>-95.6583559513092,18.612715400292764</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Morelos no. 23, col. Progreso, Naranjos, Veracruz<br/>01 768 855 0558</description>
+      <Point>
+        <coordinates>-97.6867926120758,21.34917234864624</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Arista no. 100, col. Centro, Tantoyuca, Veracruz<br/>01 789 893 0521</description>
+      <Point>
+        <coordinates>-98.22739720344543,21.350681225601924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Blvd. Allende Esq. Con Miguel Hidalgo, s/n zona centro, Panuco, Veracruz<br/>01 846 266 0011</description>
+      <Point>
+        <coordinates>-98.18451404571533,22.055971096476835</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Aldama s/n col. La brisa, Tempoal, Veracruz<br/>01 789 894 0372</description>
+      <Point>
+        <coordinates>-98.39225649833679,21.519776564811515</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Adolfo L&#xF3;pez Mateos no. 75, zona centro, Chicontepec, Veracruz<br/>01 746 892 0219</description>
+      <Point>
+        <coordinates>-98.16819548606873,20.9696347815921</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Nacional s/n,, San sebastian, Veracruz<br/>01 846 257 0180</description>
+      <Point>
+        <coordinates>-98.12981843948363,21.214220092646478</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Nacional s/n, Tepetzintla, Veracruz<br/></description>
+      <Point>
+        <coordinates>-98.14231753349304,20.96604819876602</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera Tuxpan-Tampico Km. 124, Ozulama de mascare&#xF1;as, Veracruz<br/>01 846 257 0650</description>
+      <Point>
+        <coordinates>-97.85197377204895,21.661087675241326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av Rafael Cuervo (Cuauhtemoc), Veracruz, Veracruz 91700<br/></description>
+      <Point>
+        <coordinates>-96.18185028890609,19.21542000371354</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Aeropuerto internacional Col. las bajadas, Veracruz<br/>01 229 956 8039</description>
+      <Point>
+        <coordinates>-96.1834466457367,19.142421471485044</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Ignacio allende no.1500 Centro de convenciones wtc, boca del Rio, Veracruz<br/></description>
+      <Point>
+        <coordinates>-96.10275506973267,19.10385101110747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Madero no. 14 y Humbolt Norte Col. Centro, Perote, Veracruz<br/>01 282 825 2393</description>
+      <Point>
+        <coordinates>-97.24361658096313,19.55990134319473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Allende no. 36, col. Centro, Altotonga, Veracruz<br/>01 226 316 0180</description>
+      <Point>
+        <coordinates>-97.24433541297913,19.763482682793434</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Hidalgo no. 1 Col. Centro, Las Vigas de Ram&#xED;rez, Veracruz<br/></description>
+      <Point>
+        <coordinates>-97.09809064865112,19.634372363660383</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Av. Melchor Ocampo no. 90 Col. Centro, Martinez de la Torre, Veracruz<br/>01 232 324 0217</description>
+      <Point>
+        <coordinates>-97.05373764038086,20.06467891734964</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Boulevard Alfinio Flores Beltran s/n, Martinez de la Torre, Veracruz<br/>01 232 324 6496</description>
+      <Point>
+        <coordinates>-97.07056045532227,20.068830858040453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Ferrer s/n, col. Centro, Tlapacoyan, Veracruz<br/></description>
+      <Point>
+        <coordinates>-97.21014261245728,19.96209518308052</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Misantla, Veracruz<br/></description>
+      <Point>
+        <coordinates>-96.85059762007603,19.932086529957733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Rivera del R&#xED;o no. 34 Col. Centro, San Rafael, Veracruz<br/>01 235 325 0065</description>
+      <Point>
+        <coordinates>-96.86806440353392,20.189098621887407</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Cauaupapoca no. 6 Col. Centro, Nautla, Veracruz<br/>01 235 328 0448</description>
+      <Point>
+        <coordinates>-96.77330732345581,20.206749705010665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Emiliano Zapata no. 78 Col. Centro ( servicio directo), Cardel, Veracruz 91680<br/>01 296 962 0130</description>
+      <Point>
+        <coordinates>-96.37936592102051,19.37070914414837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Emiliano Zapata no. 30 Col. Centro (servicio Intermedio), Cardel, Veracruz 91680<br/>01 296 962 1974</description>
+      <Point>
+        <coordinates>-96.38465523719788,19.369373100436274</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Independencia no. 58 (av. Principal) Col. Centro, Rinconada, Veracruz<br/>01 279 831 7068</description>
+      <Point>
+        <coordinates>-96.56536102294922,19.35287408242482</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Domicilio conocido carretera federal la Cumbre, La cumbre, Veracruz<br/></description>
+      <Point>
+        <coordinates>-96.66091203689575,19.362672473599805</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>20 de Noviembre (Lazaro Cardenas), Xalapa, VER 91040<br/>01 228 817 4795</description>
+      <Point>
+        <coordinates>-96.90349102020264,19.527476289564518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Lerdo no. 10 col. Centro, Minatitl&#xE1;n, Veracruz<br/></description>
+      <Point>
+        <coordinates>-94.56121444702147,17.9893663429286</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses AU</name>
+      <description>Buenos Aires no.31 Esquina Madrid Col. Nueva mina, Minatitlan, Veracruz<br/></description>
+      <Point>
+        <coordinates>-94.53289031982422,17.98297830760252</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera transismica no.19 Esq. Iturbide Col. Centro, Cosoleacaque, Veracruz<br/></description>
+      <Point>
+        <coordinates>-94.64017868041992,17.995203131479805</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle la principal s/n col. Arenal, Juan Diaz Covarrubias, Veracruz<br/></description>
+      <Point>
+        <coordinates>-95.18434524536133,18.15775942594652</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Avenida Morelos no.801 Esq. Carretera transismica col. Centro, Jaltipan, Veracruz<br/></description>
+      <Point>
+        <coordinates>-94.71782326698303,17.963578080735545</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>C. Manuel Acu&#xF1;a s/n. Col. Tamarindo, Acayucan, veracruz<br/>01 924 245 1142</description>
+      <Point>
+        <coordinates>-94.91405367851257,17.948472799696805</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera transismica s/n. Ejido palo dulce, Jesus carranza, Veracruz<br/></description>
+      <Point>
+        <coordinates>-95.02275824546813,17.431521628554925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle la principal s/n. Col. Arenal, Juan D&#xED;az Covarrubias, Veracruz<br/>01 294 945 0535 </description>
+      <Point>
+        <coordinates>-95.18404483795165,18.15894199114828</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Central de Autobuses (Plan de Ayala s/n), Coatzacoalcos, VER 96540<br/></description>
+      <Point>
+        <coordinates>-94.44540168553495,18.12079879872735</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 28 x 25 y 27. Loc. 1 y 2. #301 I Col. Motul, Motul, Yucat&#xE1;n<br/>01 991 915 2298</description>
+      <Point>
+        <coordinates>-89.28269147872925,21.09438016788231</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Carretera M&#xE9;rida- Puerto Juarez. Km 117. Calle 15 A x 20. S/N	 Col. PISTE, Tin&#xFA;m, Yucat&#xE1;n<br/>01 985 851 0355</description>
+      <Point>
+        <coordinates>-90.22659301757812,19.963829661699943</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Fiesta Americana (Colon calle 21), Merida, YUC<br/></description>
+      <Point>
+        <coordinates>-89.61989751330321,20.98637463818547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Central de Autobuses de M&#xE9;rida (70 centro), M&#xE9;rida, YUC 97000<br/></description>
+      <Point>
+        <coordinates>-89.63067054748535,20.96244149241068</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 65 No. 197 Local No. 12 Interior Plaza oriente Planta alta #197, M&#xE9;rida, Yucat&#xE1;n 97167<br/>01 999 983 8647</description>
+      <Point>
+        <coordinates>-89.59035158157349,20.95995682187567</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Circuito Colonias Calle 115 tablaje por 42 sur interior dunosusa #350, 382,386 Col. Mar&#xED;a Luisa, M&#xE9;rida, Yucat&#xE1;n 97199<br/>01 999 131 1862</description>
+      <Point>
+        <coordinates>-89.61004972457886,20.93795366458758</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 19 plaza las torres enfrente del casco de la hacienda de Chenk&#xFA; #230 Local 5 Col. Frac. Del norte, M&#xE9;rida, Yucat&#xE1;n 97219<br/>01 999 987 9759</description>
+      <Point>
+        <coordinates>-89.63388919830322,20.9889086855729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Calle 26 por 15 y 7 204-D planta baja FRACC. ALTABRISA, M&#xE9;rida, Yucat&#xE1;n 97130<br/>01 999 196 0259</description>
+      <Point>
+        <coordinates>-89.61286067962646,21.00489492252666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autobuses ADO</name>
+      <description>Aeropuerto Internacional de M&#xE9;rida (MID), M&#xE9;rida, YUC 97291<br/></description>
+      <Point>
+        <coordinates>-89.66365857238877,20.934119421623294</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
