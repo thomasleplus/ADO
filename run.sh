@@ -24,13 +24,4 @@ if [[ $rc != 0 ]] ; then
     exit $rc
 fi
 
-xmllint --format --output "${OUTPUT}" "${OUTPUT}"
-
-rc=$?
-
-if [[ $rc != 0 ]] ; then
-    echo "error: xmllint could not process ${OUTPUT} (${rc})" 1>&2
-    exit $rc
-fi
-
 exit 0
