@@ -19,7 +19,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-BASEDIR=$(dirname $0)
+BASEDIR=$(dirname "$0")
 
 URL='http://www.ado.com.mx/ado/xml/destinos.xml'
 INPUT='destinos.xml'
