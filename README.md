@@ -1,5 +1,4 @@
-ADO
-===
+# ADO
 
 Scripts to process [ADO](https://www.ado.com.mx) autobuses web data.
 
